@@ -56,3 +56,11 @@ terraform/
     └── prod/
         └── terraform.tfstate
 ```
+
+Some commands; 
+```
+terraform workspace show
+terraform workspace list
+terraform workspace new development
+terraform workspace select development
+```
